@@ -1,6 +1,0 @@
-Item:					Found in:
-Email hyperlink: 		all files (redirects)
-external hyperlink:		coding.html
-table:					music.html
-form:					index.html
-images:					all files (header)
